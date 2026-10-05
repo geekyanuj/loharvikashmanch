@@ -66,7 +66,7 @@ const Home = () => {
           </div>
           <div className="relative order-1 lg:order-2 px-4 md:px-0">
             <img 
-              src="../public/community-meeting.jpg" 
+              src="/community-meeting.jpg" 
               alt="Community Meeting" 
               className="w-full rounded-2xl shadow-lg"
             />
