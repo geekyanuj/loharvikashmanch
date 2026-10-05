@@ -10,7 +10,7 @@ const Home = () => {
         <div className="hero-overlay"></div>
         <div className="container hero-content text-center md:text-left pt-12 md:pt-0">
           <span className="font-bold mb-2 md:mb-4 block text-secondary text-sm md:text-lg tracking-widest uppercase">
-            Welcome to / में आपका स्वागत है
+            Welcome to / आपका स्वागत है
           </span>
           <h1 className="text-4xl md:text-5xl lg:text-6xl mb-4 md:mb-6 font-extrabold leading-tight">Lohar Vikash Manch</h1>
           <p className="text-lg md:text-xl mb-8 max-w-2xl text-white/90 mx-auto md:mx-0">
