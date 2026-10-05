@@ -66,7 +66,7 @@ const Home = () => {
           </div>
           <div className="relative order-1 lg:order-2 px-4 md:px-0">
             <img 
-              src="https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+              src="../public/community-meeting.jpg" 
               alt="Community Meeting" 
               className="w-full rounded-2xl shadow-lg"
             />
