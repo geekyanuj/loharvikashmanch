@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar py-3 px-4 md:px-8">
       <div className="w-full max-w-7xl mx-auto flex justify-between items-center flex-wrap">
         <Link to="/" className="flex items-center gap-3">
-          <img src="/logo.jpg" alt="Lohar Vikash Manch Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full object-cover" />
+          <img src="/logo.png" alt="Lohar Vikash Manch Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full object-cover" />
           <span className="text-xl md:text-2xl font-bold text-gradient">
             Lohar Vikash Manch
           </span>

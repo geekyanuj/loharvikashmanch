@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container">
         <div className="flex flex-col md:flex-row justify-between items-center gap-6 mb-8 pb-8 border-b border-slate-700">
           <div className="flex items-center gap-4">
-            <img src="/logo.jpg" alt="Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full object-cover" />
+            <img src="/logo.png" alt="Logo" className="w-10 h-10 md:w-12 md:h-12 rounded-full object-cover" />
             <h3 className="text-xl md:text-2xl font-bold text-white">Lohar Vikash Manch</h3>
           </div>
           
